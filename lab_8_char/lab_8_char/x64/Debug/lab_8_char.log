@@ -1,0 +1,5 @@
+﻿  lab_8_char.cpp
+C:\Users\Dell\Desktop\lab_8\lab_8_char\lab_8_char\lab_8_char.cpp(11,15): warning C4244: '=': conversion from '__int64' to 'int', possible loss of data
+C:\Users\Dell\Desktop\lab_8\lab_8_char\lab_8_char\lab_8_char.cpp(28,17): warning C4244: '=': conversion from '__int64' to 'int', possible loss of data
+C:\Users\Dell\Desktop\lab_8\lab_8_char\lab_8_char\lab_8_char.cpp(35,17): warning C4244: '=': conversion from '__int64' to 'int', possible loss of data
+  lab_8_char.vcxproj -> C:\Users\Dell\Desktop\lab_8\lab_8_char\x64\Debug\lab_8_char.exe
